@@ -1,0 +1,12 @@
+tensorflow
+scikit-learn
+opencv-python
+pillow
+imgaug
+numpy
+pandas
+matplotlib
+seaborn
+jupyterlab
+tqdm
+tensorboard

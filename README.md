@@ -42,3 +42,8 @@ unzip <dataset-name>.zip -d <path-to-directory>
 ``` bash
 rm <dataset-name>.zip
 ```
+
+## Install Packages
+``` bash
+pip install -r requirements.txt
+```

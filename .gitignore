@@ -5,3 +5,7 @@ venv
 datasets/
 
 docker-compose.yml
+
+Dockerfile
+
+notebooks/
